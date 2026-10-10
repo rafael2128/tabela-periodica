@@ -1,0 +1,123 @@
+*
+{
+    margin: 0;
+}
+
+table{
+    width: 90%;
+    margin: auto;
+    margin-top: 3vh;
+    height: 97vh;
+}
+
+td{
+    width: 5%;
+    height: 5vh;
+}
+
+.borda {border:solid;
+    text-align: center;
+    transition: transform 0.2s ease;
+}
+
+.borda:hover{
+    transform: scale(1.125);
+    z-index: 10;
+}
+
+
+    div { text-align: left;}
+
+    .naometais {
+        background-color: greenyellow;
+    }
+
+    .metaisalcalinos{
+        background-color: orange;
+    }
+    .metaisterrosos{
+        background-color: rgb(255, 220, 24);
+    }
+
+    .gasesnobres {
+        background-color: rgb(38, 195, 243);
+    }
+    .halogenios{
+        background-color:aquamarine
+
+    }
+
+    .semimetais{
+        background-color: rgb(10, 99, 102);
+    }
+    .outrosmetais{
+        background-color: rgb(119, 154, 163);
+    }
+
+    .metaistransiçao{
+        background-color: rgb(206, 110, 126);
+    }
+
+    .latanideos{
+        background-color: rgb(62, 128, 202);
+    }
+
+    .actinidios{
+        background-color: pink;
+    }
+
+    .legNmetais { width: 25%;
+    height: 25%;
+background-color: greenyellow;
+margin-left: 70%;}
+
+
+.legALC { width: 25%;
+    height: 25%;
+background-color:orange;
+margin-left: 70%;}
+
+.legnobre { width: 25%;
+    height: 25%;
+background-color:rgb(38, 195, 243);
+margin-left: 70%;}
+
+
+.legALCT { width: 25%;
+    height: 25%;
+background-color:rgb(255, 220, 24);
+margin-left: 70%;}
+
+.legSEMI { width: 25%;
+    height: 25%;
+background-color:rgb(10, 99, 102);
+margin-left: 70%;}
+
+.legHALO { width: 25%;
+    height: 25%;
+background-color:aquamarine;
+margin-left: 70%;}
+
+.legOUTR { width: 25%;
+    height: 25%;
+background-color:rgb(119, 154, 163);
+margin-left: 70%;}
+
+
+.legTRANS { width: 25%;
+    height: 25%;
+background-color: rgb(206, 110, 126);
+margin-left: 70%;}
+
+.legACTN { width: 25%;
+    height: 25%;
+background-color: pink;
+margin-left: 70%;}
+
+.legLANT { width: 25%;
+    height: 25%;
+background-color: rgb(62, 128, 202);
+margin-left: 70%;}
+
+
+
